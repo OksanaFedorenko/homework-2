@@ -1,0 +1,62 @@
+cat: test100.txt: No such file or directory
+one
+1.log
+0.sh
+1.sh
+10.sh
+2.sh
+3.sh
+4.sh
+5.sh
+6.sh
+7.sh
+8.sh
+9.sh
+test1.txt
+test2.txt
+test3.txt
+test4.txt
+test5.txt
+test6.txt
+total 0
+drwxr-xr-x 1 oksana oksana 512 Jul 11 08:37 one
+-rw-r--r-- 1 oksana oksana 170 Jul 11 13:45 1.log
+-rw-r--r-- 1 oksana oksana   0 Jul 11 13:54 2.log
+-rw-r--r-- 1 oksana oksana  20 Jul 10 21:19 0.sh
+-rw-r--r-- 1 oksana oksana  17 Jul 10 21:18 1.sh
+-rw-r--r-- 1 oksana oksana  32 Jul 11 14:00 10.sh
+-rw-r--r-- 1 oksana oksana  30 Jul 10 21:33 2.sh
+-rw-r--r-- 1 oksana oksana  35 Jul 10 21:39 3.sh
+-rw-r--r-- 1 oksana oksana 137 Jul 11 07:50 4.sh
+-rw-r--r-- 1 oksana oksana  63 Jul 11 08:17 5.sh
+-rw-r--r-- 1 oksana oksana  50 Jul 11 08:37 6.sh
+-rw-r--r-- 1 oksana oksana  51 Jul 11 09:56 7.sh
+-rw-r--r-- 1 oksana oksana  69 Jul 11 10:50 8.sh
+-rw-r--r-- 1 oksana oksana  80 Jul 11 12:52 9.sh
+-rw-r--r-- 1 oksana oksana   0 Jul 11 08:18 test1.txt
+-rw-r--r-- 1 oksana oksana   0 Jul 11 08:18 test2.txt
+-rw-r--r-- 1 oksana oksana   0 Jul 11 08:18 test3.txt
+-rw-r--r-- 1 oksana oksana   0 Jul 11 08:18 test4.txt
+-rw-r--r-- 1 oksana oksana   0 Jul 11 08:18 test5.txt
+-rw-r--r-- 1 oksana oksana   0 Jul 11 08:18 test6.txt
+total 4
+drwxr-xr-x 1 oksana oksana  512 Jul 11 08:37 one
+-rw-r--r-- 1 oksana oksana 1190 Jul 11 14:01 1.log
+-rw-r--r-- 1 oksana oksana    0 Jul 11 13:54 2.log
+-rw-r--r-- 1 oksana oksana   20 Jul 10 21:19 0.sh
+-rw-r--r-- 1 oksana oksana   17 Jul 10 21:18 1.sh
+-rw-r--r-- 1 oksana oksana   32 Jul 11 14:00 10.sh
+-rw-r--r-- 1 oksana oksana   30 Jul 10 21:33 2.sh
+-rw-r--r-- 1 oksana oksana   35 Jul 10 21:39 3.sh
+-rw-r--r-- 1 oksana oksana  137 Jul 11 07:50 4.sh
+-rw-r--r-- 1 oksana oksana   63 Jul 11 08:17 5.sh
+-rw-r--r-- 1 oksana oksana   50 Jul 11 08:37 6.sh
+-rw-r--r-- 1 oksana oksana   51 Jul 11 09:56 7.sh
+-rw-r--r-- 1 oksana oksana   69 Jul 11 10:50 8.sh
+-rw-r--r-- 1 oksana oksana   80 Jul 11 12:52 9.sh
+-rwxr--r-- 1 oksana oksana    0 Jul 11 08:18 test1.txt
+-rwxr--r-- 1 oksana oksana    0 Jul 11 08:18 test2.txt
+-rwxr--r-- 1 oksana oksana    0 Jul 11 08:18 test3.txt
+-rwxr--r-- 1 oksana oksana    0 Jul 11 08:18 test4.txt
+-rwxr--r-- 1 oksana oksana    0 Jul 11 08:18 test5.txt
+-rw-r--r-- 1 oksana oksana    0 Jul 11 08:18 test6.txt
