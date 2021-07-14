@@ -17,8 +17,9 @@
 
 Написание функций на языке С
 
- FILE lib_strcpy.c -  man strcpy
- FILE lib_strlen.c - man strlen
- FILE lib_strcmp.c - man strcmp
+* FILE lib_strcpy.c -  man strcpy
+* FILE lib_strlen.c - man strlen
+* FILE lib_strcmp.c - man strcmp
+
 
  
