@@ -1,2 +1,13 @@
+.DS_Store
+*.psd
+Thumbs.db
+node_modules/
+*.zip
+*.rar
+dist/
 *.txt
 *.log
+one/
+folder/
+two/
+
