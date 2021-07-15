@@ -1,4 +1,4 @@
-##Homework-2
+## Homework-2
 
 * File 0.sh отобразить имя пользователя 
 * File 1.sh отобразить текущую папку
@@ -15,11 +15,10 @@
 * File 12.sh скрипт записать последние 3 строчки файла 2.log в файл 3.log
 * File 13.sh скрипт переименовать файл 3.log и переместить его в новую папку folder под именем 4.log
 
-Написание функций на языке С
+### Написание функций на языке С
 
 * FILE lib_strcpy.c -  man strcpy
 * FILE lib_strlen.c - man strlen
 * FILE lib_strcmp.c - man strcmp
-
 
  
